@@ -1,0 +1,9 @@
+# Ignorar arquivos do Excel
+*.xlsx
+*.xls
+
+# Ignorar arquivos salvos do Power BI
+*.pbix
+
+# Ignorar pastas ocultas que o Jupyter cria sozinho
+.ipynb_checkpoints/
